@@ -8,7 +8,7 @@ How to use it:
 
 When you run the program:
     
-    Open the file that has been created to see the sequence of '0' and '1's  that represents the coding.
+    Just see the size of the zipped file. You will notice that has been reduced!!!
     
     Also the consol will print the text of the file after decoding it. There you can check that the printed text
     is the same with the original file.
